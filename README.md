@@ -1,3 +1,5 @@
+This repository is forked from https://github.com/chanyk-joseph/scte35_decoder. It has some tweaks to 2017/parser.go that I needed to make for it to work for my project. 
+
 # scte35_decoder
 scte35_decoder is a raw bytes parser for SCTE35 signal based on SCTE35 2013/2017 schema<br/>
 2013: http://www.scte.org/documents/pdf/standards/ANSI_SCTE%2035%202013.pdf <br/>
